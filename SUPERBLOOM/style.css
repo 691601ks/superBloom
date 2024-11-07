@@ -1,0 +1,462 @@
+*{
+    margin: 0;
+    padding: 0;
+   }
+
+.headZXC {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    height: 70px;
+   }
+
+.head-abdada > img {
+    padding: 20px;
+}
+
+.head-goida{
+    display: flex;
+    list-style: none;
+    font-size: 15px;
+    margin-left: 170px;
+}
+
+.head-goida > li {
+    margin: 10px;
+    padding: 20px;
+    
+}
+.head-goida > li > a{
+    text-decoration: 0;
+    color: #00402F;
+
+}
+.loginbutton {
+ margin-left: 50px;
+}
+
+.SignButton {
+    background-color: #00402F;
+    line-height: 75px; 
+    width: 240px;
+    margin-left: 50px;
+    margin-left: 10px;
+}
+
+.Z-ka{
+    color: white;
+    text-decoration: 0;
+    padding-left: 10px;
+}
+
+.OnePos {
+    display: flex;
+    background-color: #668C82;
+    padding-top: 60px;
+    padding-left: 140px;
+    height: 675px;
+    max-width: 1920px;
+}
+
+.gandon {
+    color: white;
+    font-size: 75px;
+    padding-left: 70px;
+    padding-top: 60px;
+}
+
+.CS2 {
+    color: white;
+    padding-top: 30px;
+    padding-left: 70px;
+}
+
+
+.txt {
+    list-style: none;
+}
+
+.txt > li {
+    color: white;
+    padding-top: 25px;
+    padding-left: 95px;
+}
+
+.Button {
+    margin-top: 40px;
+}
+
+.Buttt {
+    text-decoration: 0;
+    color: #00402F;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 70px;
+    font-weight: bold;
+}
+
+.TwoPos {
+    display: flex;
+    justify-content: space-around;
+    background-color:#849ACB;
+    padding-top: 60px;
+    padding-left: 140px;
+    height: 500px;
+    max-width: 1920px;
+}
+
+.pisa {
+    color: rgb(255, 255, 255);
+    padding-top: 60px;
+   font-size: 15px;
+}
+
+.chlen { 
+    padding-top: 40px;
+    max-width: 565px;
+    color: white;
+    font-size: 40px;
+}
+
+.TwoPos > div > img {
+    width: 400px;
+    height: 400px;
+    padding-right: 40px;
+}
+
+.Batonchick {
+    margin-top: 40px;
+}
+
+.StaryBog {
+    text-decoration: 0;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 50px;
+    background-color: #849ACB;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 0px;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    padding: 1px 30px;
+}
+
+.infinity { 
+    padding-top: 180px;
+    max-width: 30px;
+    max-height: 15px;
+}
+
+.ThcriPos {
+    display: flex;
+    padding-top: 60px;
+    padding-left: 500px;
+    height: 500px;
+    max-width: 1920px;
+    background-color: #FFF4E3;
+}
+
+.ThcriPos > img {
+    height: 400px;
+}
+
+.Vodcka {
+    padding-left: 70px;
+    width: 490px;
+    height: 165px;
+    font-size: 45px;
+    color: #00402F;
+}
+
+.Pivo {
+    padding-left: 70px;
+    color: #00402F;
+    width: 470px;
+}
+
+.Chapman {
+    margin-top: 40px;
+    font-style: Masvol;
+}
+
+.Camel {
+    text-decoration: 0;
+    color: white;
+    border-radius: 80px;
+    background-color: #00402F;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 70px;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 2px;
+    padding: 1px 50px;
+}
+
+.FivePos {
+    display: inline-block;
+    padding-top: 60px;
+    padding-left: 140px;
+    height: 400px;
+    max-width: 1920px;
+    text-align: center;
+}
+
+.FivePos > div > p {
+    font-size: 40px;
+    width: 690px;
+    color: #00402F;
+    padding-left: 500px;
+}
+
+.FivePos > div > img {
+    padding-left: 500px;
+    padding-top: 90px;
+}
+
+.Jenshina {
+    font-size: 20px;
+    color: #00402F;
+    padding-left: 500px;
+}
+
+.Negri {
+    display: flex;
+    padding-top: 100px;
+    padding-left: 500px;
+    height: 400px;
+    max-width: 1920px;
+    text-align: center;
+}
+
+.Negri > div > img {
+    height: 400px;
+}
+
+.YanaChlene {
+    padding-top: 20px;
+}
+
+.XyeGlot {
+    padding-left: 70px;
+    width: 490px;
+    font-size: 40px;
+    color: #00402F;
+    text-align: left;
+    padding-top: 100px;
+}
+
+.XyeGlot {
+    text-align: left;
+    padding-left: 70px;
+    color: #00402F;
+    width: 460px;
+    font-size: 16px;
+    padding-top: 30px;
+}
+
+.infinity1 {
+    max-width: 30px;
+    max-height: 15px;
+    padding-left: 950px;
+    padding-top: 80px;
+}
+
+.hdhdjdjddjhdj {
+    display:flex;
+    padding-top: 100px;
+    padding-left: 400px;
+    height: 400px;
+    max-width: 1920px;
+}
+
+.gdz {
+    padding-top: 190px;
+    padding-left: 70px;
+    width: 540px;
+    height: 70px;
+    font-size: 35px;
+    color: #00402F;
+}
+
+.Ocroshcka {
+    padding-left: 70px;
+    color: #00402F;
+    width: 445px;
+    font-size: 16px;
+}
+
+.Kubiki {
+    padding-left: 50px;
+    height: 500px;
+}
+
+.Redan {
+    max-width: 30px;
+    max-height: 15px;
+    padding-left: 950px;
+    padding-top: 150px;
+}
+
+.Goyda {
+    width: 500px;
+    padding-left: 300px;
+    padding-top: 0px;
+}
+
+.Dota2 {
+    display:flex;
+    padding-top: 100px;
+    padding-left: 140px;
+    height: 400px;
+    max-width: 1920px;
+}
+
+.text-first {
+    padding-top: 110px;
+    padding-left: 60px;
+    width: 450px;
+    font-size: 40px;
+    color: #00402F;
+    text-align: left;
+}
+
+.text-second {
+    text-align: left;
+    padding-left: 70px;
+    color: #00402F;
+    width: 410px;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+
+
+.SixPos {
+    display:flex;
+    padding-top: 100px;
+    padding-left: 50px;
+    height: 400px;
+    max-width: 1920px;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 50px;
+    padding-bottom: 80px;
+    background-color: #e9e0d2;
+}
+
+.SS {
+    max-width: 30px;
+    max-height: 25px;
+    padding-left: 950px;
+    padding-top: 150px;
+    margin-bottom: 75px;
+}
+
+.SixPos > div > img {
+    width: 320px;
+}
+
+.SevenPos {
+    height: 600px;
+    max-width: 1920px;
+    background-color: #522840;
+    text-align: center;
+}
+
+.SevenPos > div > img {
+    width: 50px;
+    padding-top: 100px;
+}
+
+.SevenPos > div > p {
+    padding-top: 50px;
+    color: white;
+    font-size: 33px;
+    text-align: center;
+width: 611px;
+padding-left: 650px;
+margin-bottom: 50px;
+}
+
+.Baunti {
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+
+.vosemPos {
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    max-width: 1920px;
+}
+.Snikers {
+    text-decoration: 0;
+    color: #00402F;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 50px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold, italic;
+}
+
+.civapcheps {
+    max-width: 30px;
+    max-height: 25px;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.Block8 > div {
+    padding-top: 50px;
+}
+
+.cirieski {
+    padding-left: 150px;
+}
+
+.syka {
+    padding-top: 30px;
+    padding-left: 150px;
+    width: 440px;
+    height: 70px;
+    font-size: 20px;
+    color: #00402F;
+}
+
+.xolodilnick {
+    padding-top: 30px;
+    padding-left: 150px;
+    width: 430px;
+    height: 70px;
+    font-size: 15px;
+    color: #00402F;
+}
+
+
+.telick {
+    padding-left: 142px;
+    color: #00402F;
+    width: 445px;
+    font-size: 15px;
+}
+.skovorodka {
+    padding-left: 150px;
+    color: #00402F;
+    width: 405px;
+    font-size: 15px;
+}
